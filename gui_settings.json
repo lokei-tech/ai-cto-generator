@@ -1,0 +1,1 @@
+{"provider": "openrouter", "base_url": "https://openrouter.ai/api/v1", "model": "qwen/qwen3.6-plus:free", "api_key": "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"}
